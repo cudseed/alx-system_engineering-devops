@@ -1,2 +1,2 @@
 #!/bin/bash
-stat --format=%n\ -\ %F\ -\ %A $file
+file /tmp/iamafile
